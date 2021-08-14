@@ -1,11 +1,11 @@
 /*
- * @Author: your name
+ * @Description: 首页
+ * @Autor: chenyilong369
  * @Date: 2021-08-11 23:38:35
- * @LastEditTime: 2021-08-14 20:49:54
- * @LastEditors: Please set LastEditors
- * @Description: In User Settings Edit
- * @FilePath: \electron-app\app\renderer\container\root\index.tsx
+ * @LastEditors: chenyilong369
+ * @LastEditTime: 2021-08-14 22:20:31
  */
+
 import React from 'react';
 import './index.less';
 import Logo from '@assets/logo.png';
